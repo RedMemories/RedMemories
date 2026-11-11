@@ -20,7 +20,7 @@
   <br/>
 
   [![GitHub](https://img.shields.io/badge/GitHub-RedMemories-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RedMemories)
-  [![Ko-fi](https://img.shields.io/badge/Support_my_work-Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/redmemories_ita)
+  [![USDC on Polygon](https://img.shields.io/badge/Support_my_work-USDC_on_Polygon-2775CA?style=for-the-badge&logo=polygon&logoColor=white)](#-support-the-mission)
 </div>
 
 ---
@@ -102,12 +102,18 @@ I believe great games deserve to be remembered — and sometimes, to be played a
 
 ## `> SUPPORT THE MISSION`
 
-If you enjoy my work, consider starring a repository or supporting future projects.
+If you enjoy my work, consider starring a repository or supporting future projects with a tip in **USDC on the Polygon network**.
 
 <div align="center">
-  <a href="https://ko-fi.com/redmemories_ita">
-    <img src="https://img.shields.io/badge/BUY_ME_A_COFFEE-SUPPORT_THE_MISSION-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support on Ko-fi"/>
+  <a href="https://polygonscan.com/address/0x0e1C11ccA29E9D2AAa9384eE0d5464f4d079E61D">
+    <img src="https://img.shields.io/badge/USDC_ON_POLYGON-SUPPORT_THE_MISSION-2775CA?style=for-the-badge&logo=polygon&logoColor=white" alt="Support with USDC on Polygon"/>
   </a>
+
+```
+0x0e1C11ccA29E9D2AAa9384eE0d5464f4d079E61D
+```
+
+  ⚠️ Send only **USDC on Polygon** to this address: other tokens or networks could be lost.
 
   <br/><br/>
 
