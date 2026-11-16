@@ -20,6 +20,7 @@
   <br/>
 
   [![GitHub](https://img.shields.io/badge/GitHub-RedMemories-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RedMemories)
+  [![Request a revive](https://img.shields.io/badge/Request_a_revive-redmemories.it-FF2A4A?style=for-the-badge&logo=android&logoColor=white)](https://www.redmemories.it)
   [![USDC on Polygon](https://img.shields.io/badge/Support_my_work-USDC_on_Polygon-2775CA?style=for-the-badge&logo=polygon&logoColor=white)](#-support-the-mission)
 </div>
 
@@ -40,6 +41,24 @@ I'm passionate about technology, classic games, and keeping digital experiences 
 My projects focus on bringing older mobile games back to modern devices, working around legacy technology and making these experiences accessible again.
 
 I believe great games deserve to be remembered — and sometimes, to be played again.
+
+## `> REQUEST A REVIVE`
+
+**Which delisted Android game should come back next? You choose.**
+
+On **[redmemories.it](https://www.redmemories.it)** you can request a game that was pulled from the Play Store or doesn't work on today's phones anymore, and vote for the ones other players miss. The most voted games are the first ones I look at.
+
+<div align="center">
+  <a href="https://www.redmemories.it">
+    <img src="assets/revive-requests.jpg" alt="Revive requests page on redmemories.it" width="85%" />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://www.redmemories.it">
+    <img src="https://img.shields.io/badge/%E2%96%B6_INSERT_COIN-REQUEST_OR_VOTE-FF2A4A?style=for-the-badge" alt="Request or vote on redmemories.it"/>
+  </a>
+</div>
 
 ## `> FEATURED PROJECTS`
 
@@ -98,7 +117,7 @@ I believe great games deserve to be remembered — and sometimes, to be played a
 - [x] Bring classic mobile gaming projects back to life
 - [x] Explore ways to make legacy games work on modern hardware
 - [ ] Keep improving, experimenting, and preserving gaming history
-- [ ] Start the next quest
+- [ ] Start the next quest — **[you choose which one](https://www.redmemories.it)**
 
 ## `> SUPPORT THE MISSION`
 
